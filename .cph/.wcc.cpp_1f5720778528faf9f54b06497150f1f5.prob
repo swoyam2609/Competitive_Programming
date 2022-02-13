@@ -1,0 +1,1 @@
+{"name":"Local: wcc","url":"c:\\Users\\swoya\\Documents\\CP\\wcc.cpp","tests":[{"id":1644650968724,"input":"4\n100\nCCCCCCCCCCCCCC\n400\nCDCDCDCDCDCDCD\n30\nDDCCNNDDDCCNND\n1\nNNDNNDDDNNDNDN","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\swoya\\Documents\\CP\\wcc.cpp","group":"local","local":true}
