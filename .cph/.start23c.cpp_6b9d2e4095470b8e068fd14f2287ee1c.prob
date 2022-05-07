@@ -1,0 +1,1 @@
+{"name":"Local: start23c","url":"c:\\Users\\swoya\\Documents\\CP\\start23c.cpp","tests":[{"id":1643211202606,"input":"3\n7 2\n0010001\n4 3\n1010\n5 2\n00100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\swoya\\Documents\\CP\\start23c.cpp","group":"local","local":true}
