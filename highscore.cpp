@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
 int solve(int arr[], int n){
-    int deg;
+    int max=0;
     for(int i=0;i<n;i++){
-        if(arr[i]!=0){
-            deg=i;
+        if(arr[i]>max){
+            max=arr[i];
         }
     }
-    return deg;
+    return max;
 }
 int main(){
     int t;
@@ -15,11 +15,11 @@ int main(){
     while(t--){
         int n;
         cin>>n;
-        int arr[n];
-        for(int i=0;i<n;i++){
+        int arr[4];
+        for(int i=0;i<4;i++){
             cin>>arr[i];
         }
-        cout<<solve(arr,n)<<endl;
+        cout<<solve(arr,4)<<endl;
     }
-
+    return 0;
 }

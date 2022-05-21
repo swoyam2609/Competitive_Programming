@@ -1,0 +1,1 @@
+{"name":"Local: dpoly","url":"/home/swoyam/Codes/Competitive_Programming-1/dpoly.cpp","tests":[{"id":1653103669673,"input":"4\n1\n5\n2\n-3 3\n3\n0 0 5\n4\n1 2 4 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swoyam/Codes/Competitive_Programming-1/dpoly.cpp","group":"local","local":true}
